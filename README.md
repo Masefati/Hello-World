@@ -1,2 +1,2 @@
 # Hello-World
-hey just new to github & webdesign
+hi. i'm just new to github & webdesign and following the first tutorial
